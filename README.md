@@ -10,4 +10,4 @@
 
 #### Warning: There may be an issue with Gradle finding your Manifest file. This popped up with Android Studio 3.2. 
 To fix this, set 
-javaCompileOptions { annotationProcessorOptions { arguments = ["androidManifestFile":"C:\\source_to_the_project_location\\Project_name\\app\\src\\main\\AndroidManifest.xml"] } } within the defaultConfig block in your module-level gradle file.
+javaCompileOptions { annotationProcessorOptions { arguments = ["androidManifestFile":"C:\\source_to_the_project_location\\Project_name\\app\\src\\main\\AndroidManifest.xml"] } } within the defaultConfig block of your module-level gradle file.
